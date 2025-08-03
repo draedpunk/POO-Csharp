@@ -1,0 +1,14 @@
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.AssemblyInfoInputs.cache
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.AssemblyInfo.cs
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\POO-Csharp\bin\Debug\net9.0\POO-Csharp.exe
+C:\Users\Dell\POO-Csharp\bin\Debug\net9.0\POO-Csharp.deps.json
+C:\Users\Dell\POO-Csharp\bin\Debug\net9.0\POO-Csharp.runtimeconfig.json
+C:\Users\Dell\POO-Csharp\bin\Debug\net9.0\POO-Csharp.dll
+C:\Users\Dell\POO-Csharp\bin\Debug\net9.0\POO-Csharp.pdb
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.dll
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\refint\POO-Csharp.dll
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.pdb
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\POO-Csharp.genruntimeconfig.cache
+C:\Users\Dell\POO-Csharp\obj\Debug\net9.0\ref\POO-Csharp.dll
