@@ -1,8 +1,21 @@
-﻿using POO_Csharp.Models;
+﻿using POO_Csharp.Interfaces;
+using POO_Csharp.Models;
 
-Corrente c = new Corrente();
-c.Creditar(1000.00m);
-c.ExibirSaldo();
+ICalculadora calculadora = new Calculadora();
+Console.WriteLine("Soma: " + calculadora.Somar(5, 3));
+Console.WriteLine("Subtração: " + calculadora.Subtrair(5, 3));
+Console.WriteLine("Multiplicação: " + calculadora.Multiplicar(5, 3));
+Console.WriteLine("Divisão: " + calculadora.Dividir(5, 10));
+
+// Computador c = new Computador();
+// c.Marca = "Dell";
+// c.Processador = "Intel Core i7";
+// c.Ram = 16;
+// c.Apresentar();
+
+// Corrente c = new Corrente();
+// c.Creditar(1000.00m);
+// c.ExibirSaldo();
 
 // Herança
 // Aluno a1 = new Aluno();

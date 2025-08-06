@@ -5,8 +5,15 @@ using System.Threading.Tasks;
 
 namespace POO_Csharp.Models
 {
-    public class Professor : Pessoa
+    public sealed class Professor : Pessoa
     {
+        // public Professor()
+        // {
+        // }
+        public Professor(string nome) : base(nome)
+        {
+
+        }
         public decimal Salario { get; set; }
 
         public override void Apresentar()
