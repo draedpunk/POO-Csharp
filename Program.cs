@@ -1,11 +1,11 @@
 ﻿using POO_Csharp.Interfaces;
 using POO_Csharp.Models;
 
-ICalculadora calculadora = new Calculadora();
-Console.WriteLine("Soma: " + calculadora.Somar(5, 3));
-Console.WriteLine("Subtração: " + calculadora.Subtrair(5, 3));
-Console.WriteLine("Multiplicação: " + calculadora.Multiplicar(5, 3));
-Console.WriteLine("Divisão: " + calculadora.Dividir(5, 10));
+// ICalculadora calculadora = new Calculadora();
+// Console.WriteLine("Soma: " + calculadora.Somar(5, 3));
+// Console.WriteLine("Subtração: " + calculadora.Subtrair(5, 3));
+// Console.WriteLine("Multiplicação: " + calculadora.Multiplicar(5, 3));
+// Console.WriteLine("Divisão: " + calculadora.Dividir(5, 10));
 
 // Computador c = new Computador();
 // c.Marca = "Dell";
